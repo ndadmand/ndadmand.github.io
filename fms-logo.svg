@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="80px" height="80.001px" viewBox="0 0 80 80.001" enable-background="new 0 0 80 80.001" xml:space="preserve">
+<g>
+	<path fill="#6CB044" d="M80,76.989c0,1.665-1.348,3.013-3.013,3.013H3.014C1.349,80.001,0,78.653,0,76.989V3.013
+		C0,1.35,1.349,0,3.014,0h73.973C78.652,0,80,1.35,80,3.013V76.989L80,76.989z"/>
+	<g>
+		<path fill="#FFFFFF" d="M24.92,61.129h7.262v1.91h-4.991v2.387h4.326v1.765h-4.326v4.268H24.92V61.129L24.92,61.129z"/>
+		<path fill="#FFFFFF" d="M33.498,61.129h3.197l2.416,7.104h0.029l2.286-7.104h3.198v10.33h-2.127v-7.32h-0.029l-2.532,7.32h-1.75
+			l-2.532-7.248h-0.029v7.248h-2.126L33.498,61.129L33.498,61.129z"/>
+		<path fill="#FFFFFF" d="M48.165,68.031c0,1.374,1.07,1.91,2.286,1.91c0.796,0,2.011-0.231,2.011-1.288
+			c0-1.114-1.548-1.302-3.066-1.708c-1.534-0.404-3.082-0.998-3.082-2.936c0-2.112,1.996-3.125,3.863-3.125
+			c2.155,0,4.137,0.941,4.137,3.328h-2.199c-0.072-1.244-0.955-1.562-2.04-1.562c-0.723,0-1.563,0.303-1.563,1.172
+			c0,0.796,0.492,0.897,3.082,1.562c0.752,0.188,3.067,0.667,3.067,3.01c0,1.895-1.49,3.313-4.297,3.313
+			c-2.286,0-4.427-1.128-4.398-3.674L48.165,68.031L48.165,68.031z"/>
+	</g>
+</g>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="4.6637" stroke-miterlimit="10" points="39.988,51.568 22.966,41.914 
+	22.966,22.606 39.988,12.952 57.011,22.606 57.011,41.914 "/>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="4.5816" stroke-miterlimit="10" points="48.022,26.029 40.024,21.423 
+	23.566,30.957 "/>
+<polygon fill="#6CB044" points="28.096,34.404 25.298,34.404 25.298,24.611 28.096,23.678 "/>
+<rect x="45.818" y="21.346" fill="#6CB044" width="4.664" height="7.462"/>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="4.5816" stroke-miterlimit="10" points="32.333,38.454 40.331,43.059 
+	56.789,33.525 "/>
+<rect x="52.347" y="30.207" fill="#6CB044" width="2.332" height="10.26"/>
+<rect x="29.961" y="35.803" fill="#6CB044" width="4.664" height="7.462"/>
+</svg>
