@@ -546,7 +546,8 @@ sub {
 .introwrapper {
 /*    background-color: #fff;*/
     min-height: 400px;
-	background: #000000d1;
+/*	background: #000000;*/
+/*    opacity: : 0.9;*/
     width: 100%;
     min-width: 320px;
     max-width: 100%;
@@ -574,6 +575,20 @@ sub {
     
 }
 
+.wrappernc {
+    background-color: #EFEFEF;
+    width: 90%;
+    min-width: 320px;
+    max-width: 1400px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    float: center;
+    text-align: left;
+    padding: 25px;
+    
+}
 .heading {
     margin: 30px;
     text-align: center;
@@ -583,3 +598,4 @@ sub {
 .photohead {
     margin-top: 80px;
 }
+
