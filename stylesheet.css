@@ -584,9 +584,10 @@ sub {
     margin-bottom: 20px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    float: center;
+/*    float: right;*/
     text-align: left;
     padding: 25px;
+    margin-top: 70px;
     
 }
 .heading {
@@ -597,7 +598,7 @@ sub {
 
 .photohead {
 /*    margin-top: 80px;*/
-    padding-top: 60px;
+/*    s*/
     padding-left: 20px;
     text-decoration: underline;
     text-align: left;
@@ -609,15 +610,19 @@ sub {
     text-align: left;
 /*    width: 76%;*/
 /*    display: inline-block;*/
+    float: right;
 }
 
 
 .headshot {
-    
+    padding-bottom: 200px;
     border-radius: 50%;
-    height: 330px;
-    padding: 5px;
+    height: 250px;
+    padding: 25px;
     transition: .8s;
+    float: left;
+    margin-bottom: 60px;
+    
 /*    text-align: left;*/
 }
 
