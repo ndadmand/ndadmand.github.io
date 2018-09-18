@@ -462,6 +462,7 @@ h2, .h2 {
 /*    margin-left: 20px;*/
 }
 h3, .h3 {
+  padding-top: 1em;
   font-size: 1.5em;
   line-height: 1em;
   margin-top: 1em;
